@@ -1,4 +1,5 @@
-
+//increment.c
+//this is the code for increment in C
 #include<stdio.h>
 int main()
 {
